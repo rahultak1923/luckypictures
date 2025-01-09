@@ -20,6 +20,15 @@
     bottom: 30px;
     transition: 0.5s;
     z-index: 99;
+    color: white;
+}
+.back-to-top1 {
+    position: fixed;
+    right: 100px;
+    bottom: 30px;
+    transition: 0.5s;
+    z-index: 99;
+    color: white;
 }
 
 
